@@ -1,8 +1,23 @@
-# React + Vite
+# Flight Radar Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a flight radar web application built with React, Redux, Leaflet, and several other useful libraries. The application allows users to view live flight information on an interactive map with real-time updates.
 
-Currently, two official plugins are available:
+- Libraries Used;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React: JavaScript library for building user interfaces.
+- 
+- @splidejs/react-splide: A React component for the Splide carousel, used for displaying various flight data or related images in a sliding format.
+- 
+- reduxjs/toolkit: A set of tools for efficient Redux development, simplifying the Redux workflow.
+- 
+- leaflet: A leading JavaScript library for interactive maps.
+- 
+- react-paginate: A pagination library for React, allowing users to paginate through flight data.
+- 
+- axios: A promise-based HTTP client for making requests to external APIs.
+
+
+
+
+
+![EkranKayd2025-02-0619 57 23-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8bdcf61d-c271-4a5e-a296-78bfd25907e6)
